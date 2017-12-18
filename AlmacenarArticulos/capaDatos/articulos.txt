@@ -1,0 +1,6 @@
+1001;Portátil Dell Inspiron;Portátil Intel i5, 8GB RAM y 1TB SSD;dell.jpg;500.50;450.00;2;;
+1002;Ratón Logitech;Ratón inalámbrico y óptico;raton.jpg;12.00;6.50;5;;
+1003;Pizza Casa Tarradellas;Pizza casera horneado tradicional;pizza.jpg;1.90;2.65;20;6;14/12/2016
+1004;Queso García Baquero;Queso semicurado de vaca;queso.jpg;3.75;5.25;10;8;22/01/2017
+1005;Silla de Oficina;Silla oficina;silla.jpg;75.75;22.75;3;
+1006;Mesa de Oficina;Mesa de oficina;mesa.jpg;75.75;22.75;3;
